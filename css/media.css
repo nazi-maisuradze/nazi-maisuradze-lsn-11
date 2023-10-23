@@ -1,0 +1,21 @@
+@media (max-width:1220px){
+    .header {
+    max-width: 1220px;
+    }
+    .ul {
+        max-width: 1220px;
+        width: 95%;
+    }
+    .li-a { 
+        color:darkgreen
+    }
+    .Get-Consulting-div:honor {
+        background-color: brown;
+    }
+    .phone-div:honor {
+        background-color: brown;
+    }
+    .email-div:honor {
+        background-color: brown
+    }
+}
